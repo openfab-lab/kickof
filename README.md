@@ -39,7 +39,7 @@ Le kick est néttoyé, poncé et tout ce qui était dead a été dégagé.
 
 ![kick1](https://user-images.githubusercontent.com/12049360/31757761-a7b734ce-b4aa-11e7-807c-78728b82adcc.png)
 
-[Pour la liste plus détaillée](/master/step1.md)
+[Pour la liste plus détaillée](/step1.md)
 
 ## ToDo
 - [ ] Il va falloir quelqu'un qui suive le projet, un berger, pour qu'on reste focus et qu'on ai finis pour février. 
